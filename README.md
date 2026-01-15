@@ -1,10 +1,10 @@
 # 💫 About Me
 
-Fourth-year **Computer Science** student at **York University** with strong interests in **data engineering, data science, and applied machine learning**. I enjoy working at the intersection of **data, systems, and real-world impact**—from building scalable data pipelines and graph-based models to engineering reliable backend systems.
+Fourth-year Computer Science student at York University with strong interests in data engineering, data science, and applied machine learning. I enjoy working at the intersection of data, systems, and real-world impact, from building scalable data pipelines and graph-based models to engineering reliable backend systems.
 
-I have hands-on experience in **data engineering**, **graph mining**, and **distributed systems**, including temporal link prediction on large-scale networks, microservices-based backend architectures, and performance optimization in SQL databases. I’m especially interested in roles where I can combine **analytical thinking**, **clean system design**, and **measurable performance improvements**.
+I have hands-on experience in data engineering, graph mining, and distributed systems, including temporal link prediction on large-scale networks, microservices-based backend architectures, and performance optimization in SQL databases. I’m especially interested in roles where I can combine analytical thinking, clean system design, and measurable performance improvements.
 
-Outside of academics, I value discipline and consistency—whether through fitness, long-term projects, or collaborative engineering work—and I’m actively seeking opportunities to grow as a **data-focused software engineer or data scientist**.
+Outside of academics, I value discipline and consistency, whether through fitness, long-term projects, or collaborative engineering work, and I’m actively seeking opportunities to grow as a data-focused software engineer or data scientist.
 
 ## 🌐 Socials
 
@@ -34,12 +34,6 @@ Outside of academics, I value discipline and consistency—whether through fitne
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=flat\&logo=github\&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=flat\&logo=swagger\&logoColor=black)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ErfanYM\&theme=transparent\&hide_border=true\&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ErfanYM\&theme=transparent\&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanYM\&theme=transparent\&hide_border=true\&layout=compact)
 
 ### ✍️ Random Dev Quote
 
